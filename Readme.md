@@ -3,65 +3,65 @@
 </p>
 
 <h1 align="center">RaptX</h1>
-<p align="center"><i>Cybersecurity Collaboration & CTF Excellence</i></p>
+<p align="center"><i>Precision-driven cybersecurity engineering, CTF operations, and vulnerability research.</i></p>
 
 <p align="center">
-  <a href="mailto:contact@infoops.dev"><img src="https://img.shields.io/badge/Email-contact%40infoops.dev-blue?style=flat-square&logo=gmail"></a>
-  <img src="https://img.shields.io/badge/CTFtime-Top%2050-yellowgreen?style=flat-square&logo=ctftime">
-  <img src="https://img.shields.io/badge/CVE%20Hunter-Active-red?style=flat-square&logo=bugcrowd">
-  <img src="https://img.shields.io/badge/Tools-Built%20with%20Python%20%26%20Bash-blue?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/CTFtime-Top%2040-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/CVE%20Discoveries-5+-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Tools%20Built-Python%2C%20Go%2C%20Rust-blue?style=flat-square">
 </p>
 
 ---
 
-## 🌟 What We Do
+## Overview
 
-🧠 **CTF Competitions**  
-We play hard. HackTheBox, CTFtime, private events — we’re always in the arena.
-
-🛠 **Tool Development**  
-From quick scripts to full-scale automation & recon tools, we build solutions that scale.
-
-🎮 **Challenge Creation**  
-We build and host custom CTF challenges, from forensics to binary exploitation.
-
-👥 **Team Events & Study Jams**  
-Weekly deep dives, community hacking nights, and research write-ups.
+RaptX is a cybersecurity research and development collective operating at the intersection of offensive security, automation, and capture the flag (CTF) engineering. We build tools, discover vulnerabilities, and create technically rigorous CTF challenges to push the boundaries of real-world infosec.
 
 ---
 
-## 🔑 Why RaptX?
+## Core Activities
 
-🤝 **Tight-Knit Team**  
-We value trust, passion, and shared growth over numbers.
+- **CTF Competition**  
+  Regular participation in national and international competitions (HackTheBox, CTFtime, DEF CON qualifiers).
 
-🚀 **Career-Driven Focus**  
-Whether bug bounties, red teaming, or research — we help members build their future.
+- **Tool Development**  
+  We engineer lightweight, battle-tested tools focused on recon, automation, binary analysis, and exploit development.
 
-⚡ **No BS, Just Results**  
-We measure by impact, not noise.
+- **Vulnerability Research**  
+  Responsible CVE discovery across web, cloud, and compiled applications. Full write-ups and patch coordination.
 
----
-
-## 🧰 Tools & Projects
-
-| Tool | Description |
-|------|-------------|
-| 🔍 `ReconBot` | Automated recon pipeline for OSINT & bug bounty targets |
-| 🛡️ `WAF-Slayer` | WAF bypass automation for pentesting labs |
-| 🧨 `CTF-Forge` | CTF challenge deployment tool for local & cloud |
-| 🕵️‍♂️ `CVE-Hunter` | Semi-automated vulnerability scanner built in Python |
-
-> 🔗 *[More in our GitHub repos →](https://github.com/RaptX)*
+- **Challenge Design**  
+  Internal and public challenge creation across categories: pwn, reverse, crypto, web, and forensics.
 
 ---
 
-## 📬 Connect
+## Projects
 
-- 🌐 Website: [infoops.dev](https://infoops.dev)
-- 🐙 GitHub: [github.com/RaptX](https://github.com/RaptX)
-- 📧 Email: [contact@infoops.dev](mailto:contact@infoops.dev)
+| Tool        | Description                                       | Language |
+|-------------|---------------------------------------------------|----------|
+| `scope.py`  | Asset scoping and subdomain enumeration           | Python   |
+| `bindex`    | ELF binary indexer for fast triage                | Go       |
+| `audity`    | Code diff analyzer for vulnerability hunting      | Rust     |
+| `ctfkit`    | CLI for building, deploying, and solving CTF sets | Bash     |
+
+> 🔗 All tools are available in the [RaptX GitHub organization](https://github.com/RaptX).
 
 ---
 
-<p align="center"><i>"Skill is not just in solving problems — it's in creating the ones others can't."</i></p>
+## Key Metrics
+
+- **CTFtime**: Top 40 Team (2024–2025)
+- **CVEs**: 5+ reported and verified
+- **Repos Maintained**: 10+ internal and open-source
+
+---
+
+## Contact
+
+- 📧 Email: `contact@infoops.dev`  
+- 🌐 Website: [infoops.dev](https://infoops.dev)  
+- 🧑‍💻 GitHub: [github.com/RaptX](https://github.com/RaptX)
+
+---
+
+<p align="center"><i>"Build quietly. Break precisely."</i></p>
